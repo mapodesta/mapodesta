@@ -1,6 +1,6 @@
 # Hi there, I'm Mathias 👋
 
-### 🔭 I’m currently working on the Municipalidad of San Nicolas de los Arroyos.
+### 🔭 I’m currently living in Ireland and Develop as a Freelance
 ### 💬 Ask me about Javascript, React, NodeJS
 ### 📫 How to reach me: mathias643@gmail.com
 
