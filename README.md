@@ -13,7 +13,7 @@
     
 <p align="left">
   
-   <a href="https://github.com/mapodesta/productsclient "><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mapodesta&repo=productsclient &langs_count=5&theme=nord">
+   <a href="https://github.com/mapodesta/ecommerce-pay"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mapodesta&repo=ecommerce-pay&langs_count=5&layout=compact&theme=nord">
   <a href="https://github.com/mapodesta/productserver"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mapodesta&card_height=300&&repo=productserver&langs_count=5&layout=compact&theme=nord">
   <a href="https://github.com/mapodesta/drinksfinder"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mapodesta&repo=drinksfinder&layout=compact&theme=nord">
   <a href="https://github.com/mapodesta/songsfinder "><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mapodesta&repo=songsfinder &hide=html,scss,css&langs_count=10&layout=compact&theme=nord">
